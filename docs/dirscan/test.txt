@@ -1,0 +1,8 @@
+/ASP.txt
+/ASPX.txt
+/DIR.txt
+/JSP.txt
+/MDB.txt
+/PHP.txt
+/springboot.txt
+/test.txt

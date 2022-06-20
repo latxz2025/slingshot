@@ -1,0 +1,7 @@
+lee
+admin
+root
+guest
+ftp
+www
+administrator

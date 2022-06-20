@@ -1,0 +1,40 @@
+{
+    "D_Safe_Manage.exe": "D盾",
+    "d_manage.exe": "D盾",
+    "yunsuo_agent_service.exe": "云锁",
+    "yunsuo_agent_daemon.exe": "云锁",
+    "AliYunDun.exe": "阿里云盾",
+    "AliYunDunUpdate.exe": "阿里云盾",    
+    "aliyun_assist_service.exe": "阿里云盾",
+
+    "BaradAgent.exe": "腾讯云安全",
+    "sgagent.exe": "腾讯云安全",
+    "YDService.exe": "腾讯云安全",
+    "YDLive.exe": "腾讯云安全",
+    "YDEdr.exe": "腾讯云安全",
+
+
+    "360WebSafe.exe": "360主机卫士Web",
+    "QHSrv.exe": "360主机卫士Web",
+    "QHWebshellGuard.exe": "360主机卫士Web",
+
+
+    "SafeDogSiteApache.exe": "安全狗",
+    "SafeDogSiteIIS.exe": "安全狗",
+    "SafeDogTray.exe": "安全狗",
+    "SafeDogServerUI.exe": "安全狗",
+    "SafeDogGuardCenter.exe": "安全狗",
+    "CloudHelper.exe": "安全狗",
+    "SafeDogUpdateCenter.exe": "安全狗",
+
+    "hws.exe": "护卫神·入侵防护系统",
+    "hwsd.exe": "护卫神·入侵防护系统",
+    "hws_ui.exe": "护卫神·入侵防护系统",
+    "HwsPanel.exe": "护卫神·入侵防护系统",
+    "HwsHostPanel.exe": "护卫神·入侵防护系统",
+    "HwsHostMaster.exe": "护卫神·入侵防护系统",
+
+    "gov_defence_service.exe": "网防G01",
+    "gov_defence_daemon.exe": "网防G01"
+
+}
